@@ -1,0 +1,25 @@
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 400px;
+  padding-top: 5px;
+  padding-left: 5px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.subtitle {
+  margin-left: 5px;
+  font-size: 18px;
+  font-weight: lighter;
+  white-space: nowrap;
+  font-family: "Courier New", Courier, monospace;
+}
