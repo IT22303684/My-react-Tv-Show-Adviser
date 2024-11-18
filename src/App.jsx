@@ -20,7 +20,7 @@ function App() {
         setcurrentTvShow(populertvShowList[0]);
       }
     } catch (e) {
-      alert("Error fetching popular tv shows");
+      alert("Erro fetching popular tv shows");
     }
   }
 
